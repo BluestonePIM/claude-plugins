@@ -5,10 +5,8 @@ Internal marketplace of Claude Code plugins for the Bluestone PIM team.
 ## Setup (one-time, per person)
 
 ```
-/plugin marketplace add bluestonepim/claude-plugins
+/plugin marketplace add BluestonePIM/claude-plugins
 ```
-
-(Replace `bluestonepim/claude-plugins` with the actual GitHub repo path once this is pushed.)
 
 ## Install a plugin
 
