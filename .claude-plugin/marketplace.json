@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "bluestone-claude-plugins",
+  "description": "Bluestone PIM internal Claude Code plugins",
+  "owner": {
+    "name": "Bluestone PIM",
+    "email": "mam@bluestonepim.com"
+  },
+  "plugins": [
+    {
+      "name": "codegen-helper",
+      "description": "Analyze raw Playwright codegen (or a feature/module name) and turn it into stable, comprehensive test coverage in ANY project — brand-new or existing. Cleans duplicate/misfired clicks, enables full trace recording, splits into sunny/rainy test cases, and ends with plain-language run/report/trace instructions for non-coder users.",
+      "author": {
+        "name": "Bluestone PIM QA Team",
+        "email": "mam@bluestonepim.com"
+      },
+      "category": "testing",
+      "source": "./plugins/codegen-helper"
+    }
+  ]
+}
