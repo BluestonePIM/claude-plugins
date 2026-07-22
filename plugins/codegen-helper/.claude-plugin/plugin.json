@@ -1,5 +1,6 @@
 {
   "name": "codegen-helper",
+  "version": "1.0.0",
   "description": "Analyze raw Playwright codegen (or a feature/module name) and turn it into stable, comprehensive test coverage in ANY project — brand-new or existing. Cleans duplicate/misfired clicks, enables full trace recording, splits into sunny/rainy test cases, and ends with plain-language run/report/trace instructions for non-coder users.",
   "author": {
     "name": "Bluestone PIM QA Team",
